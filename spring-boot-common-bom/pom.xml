@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>cn.dyaoming.common</groupId>
 		<artifactId>common-bom-dependence</artifactId>
-		<version>0.0.2</version>
+		<version>0.2.1</version>
 	</parent>
 	<artifactId>spring-boot-common-bom</artifactId>
 	<packaging>pom</packaging>
