@@ -5,13 +5,13 @@
 	<parent>
 		<groupId>cn.dyaoming.common</groupId>
 		<artifactId>common-bom-dependence</artifactId>
-		<version>0.0.4</version>
+		<version>0.4.1</version>
 	</parent>
 	<artifactId>spring-boot-common-bom</artifactId>
 	<packaging>pom</packaging>
 	<properties>
 		<!-- springboot版本号 -->
-		<spring.boot.version>2.2.0.RELEASE</spring.boot.version>
+		<spring.boot.version>2.2.1.RELEASE</spring.boot.version>
 	</properties>
 
 	<dependencyManagement>
